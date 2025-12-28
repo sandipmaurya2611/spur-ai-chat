@@ -1,0 +1,6 @@
+[submodule "spur-ai-chat-frontend"]
+	path = spur-ai-chat-frontend
+	url = https://github.com/sandipmaurya2611/spur-ai-chat-frontend.git
+[submodule "spur-ai-chat-backend"]
+	path = spur-ai-chat-backend
+	url = https://github.com/sandipmaurya2611/spur-ai-chat-backend.git
